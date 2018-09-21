@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveCard2", "InteractiveCard2\InteractiveCard2.csproj", "{D309AC89-73AF-43F9-8C43-54EF3A3DA3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D309AC89-73AF-43F9-8C43-54EF3A3DA3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D309AC89-73AF-43F9-8C43-54EF3A3DA3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D309AC89-73AF-43F9-8C43-54EF3A3DA3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D309AC89-73AF-43F9-8C43-54EF3A3DA3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766E2883-14B5-47D6-9265-422496CCDE1D}
+	EndGlobalSection
+EndGlobal
