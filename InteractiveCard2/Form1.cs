@@ -13,7 +13,7 @@ using System.Windows.Forms;
 /// <summary>
 /// Elia Santagiuliana 21-09-18
 /// 
-/// I'm still working on this
+/// Leo constellation card
 /// </summary>
 namespace InteractiveCard2
 {
@@ -43,7 +43,7 @@ namespace InteractiveCard2
             //new graphics, font, pen and brushes
             Graphics g = this.CreateGraphics();
             Pen drawPen = new Pen(Color.White, 1);
-            Font drawFont = new Font("Arial", 14);
+            Font drawFont = new Font("Papyrus", 14, FontStyle.Bold);
             SolidBrush drawBrushWhite = new SolidBrush(Color.White);
             SolidBrush drawBrushRed = new SolidBrush(Color.Red);
 
